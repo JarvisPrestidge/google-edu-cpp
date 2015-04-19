@@ -32,7 +32,7 @@ int main() {
     People << first_name << endl << last_name << endl << age << endl;
 
     // Find out if user want to continue adding names
-    cout << "Contine? (y/n)" << endl;
+    cout << "Continue? (y/n)" << endl;
     cin >> done;
     if (done == 'n') {
       break;

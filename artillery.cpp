@@ -137,7 +137,7 @@ int main() {
 	  	}
 	  	break;
 	  }
-	  cout << again << endl;n
+	  cout << again << endl;
 	  cout << endl;
 	} while (again != 'n');
 	
